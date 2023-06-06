@@ -17,18 +17,18 @@ a,
 
 @media (hover: hover) {
   a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
+    background-color: hsla(160, 3%, 34%, 0.2);
   }
 }
 
 @media (min-width: 1024px) {
   body {
     display: flex;
-    place-items: center;
+    place-items: middle;
   }
 
   #app {
     display: grid;
-    padding: 0 2rem;
+    padding: 0 3rem;
   }
 }

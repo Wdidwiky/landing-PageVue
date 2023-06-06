@@ -6,10 +6,10 @@ import Navbar from './components/Navbar.vue';
 <template>
   <header class="px-1 py-1">
     <Navbar />   
-    <Hero />
+    
   </header>
   <body>
-    
+    <Hero />
   </body>
 
 </template>
